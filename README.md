@@ -97,6 +97,32 @@ I'm passionate about **programming** and **data science**, turning complex data 
 
 </div>
 
+## Local Development
+
+To run this site locally:
+
+1. Clone the repository:
+   ```
+   git clone https://github.com/shalom-lab/shalom-lab.github.io.git
+   ```
+
+2. Navigate to the project directory:
+   ```
+   cd shalom-lab.github.io
+   ```
+
+3. Run the local server (requires Node.js):
+   ```
+   node server.js
+   ```
+
+4. Open your browser and go to:
+   ```
+   http://localhost:3000
+   ```
+
+Alternatively, if you don't have Node.js installed, you can use any static file server or open the `index.html` file directly in your browser, but some features like JSON loading may not work properly due to browser security restrictions.
+
 ## Project Structure
 
 - `index.html` - The main HTML file

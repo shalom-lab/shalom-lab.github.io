@@ -93,7 +93,7 @@ async function loadProjectData() {
         const projectsGrid = document.getElementById('projects-grid');
         projectsGrid.innerHTML = '<div class="loader"></div>';
         
-        const response = await fetch('/data-raw/projects.json');
+        const response = await fetch('./data-raw/projects.json');
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
