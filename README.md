@@ -96,3 +96,12 @@ I'm passionate about **programming** and **data science**, turning complex data 
 <sub>💡 Check out my latest articles on [blog.rlearner.com](https://blog.rlearner.com)</sub>
 
 </div>
+
+## Project Structure
+
+- `index.html` - The main HTML file
+- `css/styles.css` - Styling for the website
+- `js/main.js` - JavaScript functionality
+- `data-raw/projects.json` - The source data for all projects
+
+## Contributing
