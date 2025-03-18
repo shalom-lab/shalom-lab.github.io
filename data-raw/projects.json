@@ -86,5 +86,13 @@
     "keywords": "emoji,表情",
     "stars": 3,
     "timestamp": "2025-03-18T11:24:33.104Z"
+  },
+  {
+    "title": "医学生R语言入门指南",
+    "link": "https://shalom-lab.github.io/r4medical/",
+    "category": "书籍",
+    "keywords": "R语言,医学",
+    "stars": 3,
+    "timestamp": "2025-03-18T11:26:33.105Z"
   }
 ]
