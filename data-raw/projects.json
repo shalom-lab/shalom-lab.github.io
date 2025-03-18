@@ -14,5 +14,13 @@
     "keywords": "vue,SIR,传染病",
     "stars": 5,
     "timestamp": "2025-03-18T11:10:24.949Z"
+  },
+  {
+    "title": "VSlide",
+    "link": "https://vslide.cn/",
+    "category": "前端",
+    "keywords": "数据可视化,vue",
+    "stars": 5,
+    "timestamp": "2025-03-18T11:11:47.799Z"
   }
 ]
