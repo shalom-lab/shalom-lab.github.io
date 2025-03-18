@@ -70,5 +70,13 @@
     "keywords": "推送数据,表单提交,Github",
     "stars": 5,
     "timestamp": "2025-03-18T11:21:45.787Z"
+  },
+  {
+    "title": "R语言入门指南",
+    "link": "https://shalom-lab.github.io/r-book/",
+    "category": "书籍",
+    "keywords": "R语言",
+    "stars": 5,
+    "timestamp": "2025-03-18T11:22:26.344Z"
   }
 ]
