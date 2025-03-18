@@ -22,5 +22,13 @@
     "keywords": "数据可视化,vue",
     "stars": 5,
     "timestamp": "2025-03-18T11:11:47.799Z"
+  },
+  {
+    "title": "RSS-流行病学",
+    "link": "https://shalom-lab.github.io/rss-epi/",
+    "category": "流行病学",
+    "keywords": "RSS阅读器,github action",
+    "stars": 5,
+    "timestamp": "2025-03-18T11:15:40.514Z"
   }
 ]
