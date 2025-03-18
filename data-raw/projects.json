@@ -94,5 +94,13 @@
     "keywords": "R语言,医学",
     "stars": 3,
     "timestamp": "2025-03-18T11:26:33.105Z"
+  },
+  {
+    "title": "shiny-world-pop",
+    "link": "https://learn-r.shinyapps.io/shiny-world-pop/",
+    "category": "Shiny应用",
+    "keywords": "世界人口，shiny",
+    "stars": 5,
+    "timestamp": "2025-03-18T11:27:38.523Z"
   }
 ]
