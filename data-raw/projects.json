@@ -128,5 +128,15 @@
     "stars": 5,
     "timestamp": "2025-03-18T11:27:38.523Z",
     "image": "https://images.unsplash.com/photo-1569025690938-a00729c9e1f9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "title": "上海新冠疫情可视化",
+    "description": "上海新冠疫情数据可视化",
+    "link": "https://covid-sh-6gkhr9773dab473d-1257749604.ap-shanghai.app.tcloudbase.com/",
+    "category": "网站",
+    "keywords": "流行病学,新冠,可视化,R语言",
+    "stars": 5,
+    "image": "",
+    "timestamp": "2025-03-20T11:20:30.037Z"
   }
 ]
