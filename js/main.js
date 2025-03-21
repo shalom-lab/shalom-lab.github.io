@@ -25,7 +25,7 @@ function renderProjects(projects) {
         card.dataset.category = project.category;
         
         card.innerHTML = `
-            <img src="${project.image}" alt="${project.title}" class="project-image">
+            <img src="${project.image || 'https://picsum.photos/300/200'}" alt="${project.title}" class="project-image">
             <div class="project-content">
                 <h3 class="project-title">${project.title}</h3>
                 <p class="project-description">${project.description}</p>
