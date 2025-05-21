@@ -326,8 +326,7 @@ footer {
     }
 }
 
-/* 悬浮按钮 */
-
+/* 悬浮菜单按钮样式 */
 .float-menu {
     position: fixed;
     bottom: 160px;
@@ -351,7 +350,7 @@ footer {
     background: #f5f5f5;
 }
 
-.menu-item+.menu-item {
+.menu-item + .menu-item {
     border-top: 1px solid #eee;
 }
 
@@ -382,11 +381,9 @@ footer {
     width: 200px;
     height: 20px;
     background: #fff;
-    ;
     margin-bottom: 20px;
     text-align: center;
-    top: calc(50% + 100px);
-    /* 二维码高度的一半 */
+    top: calc(50% + 100px); /* 二维码高度的一半 */
     right: 48px;
     transform: translateY(-50%);
     opacity: 0;
@@ -404,4 +401,15 @@ footer {
 
 svg:hover {
     color: #3b82f6;
+}
+
+/* SVG 图标样式 */
+.menu-item svg {
+    width: 1.25rem;  /* h-5 = 1.25rem */
+    height: 1.25rem; /* w-5 = 1.25rem */
+    color: #4b5563;  /* text-gray-600 */
+}
+
+.menu-item svg:hover {
+    color: #3b82f6;  /* 保持原有的悬停颜色 */
 }
