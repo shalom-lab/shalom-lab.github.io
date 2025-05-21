@@ -4,7 +4,10 @@
     "link": "https://slr95.shinyapps.io/data-viewer/",
     "description": "一个预览数据的Shiny应用",
     "category": "Shiny应用",
-    "keywords": "shiny,数据展示",
+    "keywords": [
+      "shiny",
+      "数据展示"
+    ],
     "stars": 5,
     "timestamp": "2025-03-18T11:08:24.963Z",
     "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
@@ -14,7 +17,11 @@
     "link": "https://shalom-lab.github.io/vue-sir/",
     "description": "一个展示SIR模型的Vue应用",
     "category": "网站",
-    "keywords": "vue,SIR,传染病",
+    "keywords": [
+      "vue",
+      "SIR",
+      "传染病"
+    ],
     "stars": 5,
     "timestamp": "2025-03-18T11:10:24.949Z",
     "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
@@ -24,7 +31,10 @@
     "link": "https://vslide.cn/",
     "description": "一个用于创作交互式可视化图表的网站",
     "category": "网站",
-    "keywords": "数据可视化,Vue",
+    "keywords": [
+      "数据可视化",
+      "Vue"
+    ],
     "stars": 5,
     "timestamp": "2025-03-18T11:11:47.799Z",
     "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
@@ -34,7 +44,10 @@
     "link": "https://shalom-lab.github.io/rss-epi/",
     "description": "一个用于展示流行病学数据的RSS阅读器",
     "category": "网站",
-    "keywords": "RSS阅读器,github action",
+    "keywords": [
+      "RSS阅读器",
+      "github action"
+    ],
     "stars": 5,
     "timestamp": "2025-03-18T11:15:40.514Z",
     "image": "https://images.unsplash.com/photo-1584036561566-baf8f5f1b144?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
@@ -44,7 +57,10 @@
     "link": "https://shalom-lab.github.io/awesome-prompt/",
     "description": "一个收集各种酷炫AI提示词的网页",
     "category": "网站",
-    "keywords": "AI,提示词",
+    "keywords": [
+      "AI",
+      "提示词"
+    ],
     "stars": 3,
     "timestamp": "2025-03-18T11:16:35.935Z",
     "image": "https://images.unsplash.com/photo-1598413667303-43014eacbeb2?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
@@ -54,7 +70,10 @@
     "link": "https://github.com/shalom-lab/easy-prompt",
     "description": "一款便捷存取AI提示词的浏览器插件",
     "category": "浏览器插件",
-    "keywords": "AI,提示词",
+    "keywords": [
+      "AI",
+      "提示词"
+    ],
     "stars": 5,
     "timestamp": "2025-03-18T11:18:02.571Z",
     "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
@@ -64,7 +83,10 @@
     "link": "https://github.com/shalom-lab/svg-to-icon",
     "description": "一个将SVG文件转换为icon图标的浏览器插件",
     "category": "浏览器插件",
-    "keywords": "icon,插件",
+    "keywords": [
+      "icon",
+      "插件"
+    ],
     "stars": 5,
     "timestamp": "2025-03-18T11:19:35.278Z",
     "image": "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
@@ -74,7 +96,10 @@
     "link": "https://github.com/shalom-lab/bookmark-plus",
     "description": "一个管理书签、支持同步到github的浏览器插件",
     "category": "浏览器插件",
-    "keywords": "书签管理,github同步",
+    "keywords": [
+      "书签管理",
+      "github同步"
+    ],
     "stars": 5,
     "timestamp": "2025-03-18T11:20:46.560Z",
     "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
@@ -84,7 +109,11 @@
     "link": "https://github.com/shalom-lab/push-data",
     "description": "将表单数据推送到Github的浏览器插件",
     "category": "浏览器插件",
-    "keywords": "推送数据,表单提交,Github",
+    "keywords": [
+      "推送数据",
+      "表单提交",
+      "Github"
+    ],
     "stars": 5,
     "timestamp": "2025-03-18T11:21:45.787Z",
     "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
@@ -94,7 +123,9 @@
     "link": "https://shalom-lab.github.io/r-book/",
     "description": "R语言入门指南",
     "category": "书籍",
-    "keywords": "R语言",
+    "keywords": [
+      "R语言"
+    ],
     "stars": 5,
     "timestamp": "2025-03-18T11:22:26.344Z",
     "image": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
@@ -104,7 +135,10 @@
     "link": "https://github.com/shalom-lab/emoji-free",
     "description": "搜索emoji的浏览器插件",
     "category": "浏览器插件",
-    "keywords": "emoji,表情",
+    "keywords": [
+      "emoji",
+      "表情"
+    ],
     "stars": 3,
     "timestamp": "2025-03-18T11:24:33.104Z",
     "image": "https://images.unsplash.com/photo-1600493033157-eed3fbe95d96?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
@@ -114,7 +148,10 @@
     "link": "https://shalom-lab.github.io/r4medical/",
     "description": "面向医学生R语言的书籍(AI辅助创作)",
     "category": "书籍",
-    "keywords": "R语言,医学",
+    "keywords": [
+      "R语言",
+      "医学"
+    ],
     "stars": 3,
     "timestamp": "2025-03-18T11:26:33.105Z",
     "image": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
@@ -124,7 +161,10 @@
     "link": "https://learn-r.shinyapps.io/shiny-world-pop/",
     "description": "一个展示世界各国百年人口的Shiny应用",
     "category": "Shiny应用",
-    "keywords": "世界人口，shiny",
+    "keywords": [
+      "世界人口",
+      "shiny"
+    ],
     "stars": 5,
     "timestamp": "2025-03-18T11:27:38.523Z",
     "image": "https://images.unsplash.com/photo-1569025690938-a00729c9e1f9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
@@ -134,7 +174,12 @@
     "description": "上海新冠疫情数据可视化",
     "link": "https://covid-sh-6gkhr9773dab473d-1257749604.ap-shanghai.app.tcloudbase.com/",
     "category": "网站",
-    "keywords": "流行病学,新冠,可视化,R语言",
+    "keywords": [
+      "流行病学",
+      "新冠",
+      "可视化",
+      "R语言"
+    ],
     "stars": 5,
     "image": "https://images.unsplash.com/photo-1584483766114-2cea6facdf57?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "timestamp": "2025-03-20T11:20:30.037Z"
@@ -144,7 +189,10 @@
     "description": "科技爱好者周刊-工具合集",
     "link": "https://shalom-lab.github.io/weekly-tools/",
     "category": "网站",
-    "keywords": "工具,CICD",
+    "keywords": [
+      "工具",
+      "CICD"
+    ],
     "stars": 5,
     "image": "https://images.unsplash.com/photo-1506485338023-6ce5f36692df?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8d2Vla2x5fGVufDB8fDB8fHww",
     "timestamp": "2025-03-21T08:15:09.731Z"

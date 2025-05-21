@@ -5,7 +5,7 @@ function renderProjects(projects) {
 
     projects.forEach(project => {
         // 将关键词字符串转换为数组
-        const keywords = project.keywords.split(',').map(k => k.trim());
+        const keywords = project.keywords
         
         // 创建关键词HTML
         const keywordsHtml = keywords.map(keyword => 
