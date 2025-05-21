@@ -31,7 +31,7 @@ function renderProjects(projects) {
                 <p class="project-description">${project.description}</p>
                 <div class="project-keywords">${keywordsHtml}</div>
                 <div class="project-meta">
-                    <span class="project-category"></span>
+                    <span class="project-category">${project.category}</span>
                     <span class="project-stars">${starsHtml}</span>
                 </div>
                 <a href="${project.link}" target="_blank" class="project-link">查看项目</a>

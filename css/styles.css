@@ -69,7 +69,8 @@ h1 {
     margin-top: 1rem;
 }
 
-.github-link, .edit-link {
+.github-link,
+.edit-link {
     display: inline-flex;
     align-items: center;
     gap: 0.5rem;
@@ -81,7 +82,8 @@ h1 {
     transition: background-color 0.3s;
 }
 
-.github-link:hover, .edit-link:hover {
+.github-link:hover,
+.edit-link:hover {
     background-color: rgba(255, 255, 255, 0.2);
 }
 
@@ -110,7 +112,8 @@ h1 {
     font-size: 0.9rem;
 }
 
-.filter-btn:hover, .filter-btn.active {
+.filter-btn:hover,
+.filter-btn.active {
     background-color: var(--primary-color);
     color: white;
     border-color: var(--primary-color);
@@ -261,17 +264,24 @@ footer {
 }
 
 @keyframes spin {
-    0% { transform: rotate(0deg); }
-    100% { transform: rotate(360deg); }
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
 }
 
 @media (max-width: 768px) {
     h1 {
         font-size: 2rem;
     }
+
     .projects-grid {
         grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
     }
+
     .project-image {
         height: 160px;
     }
@@ -314,4 +324,84 @@ footer {
         width: 42px;
         height: 42px;
     }
-} 
+}
+
+/* 悬浮按钮 */
+
+.float-menu {
+    position: fixed;
+    bottom: 160px;
+    right: 24px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    z-index: 10;
+}
+
+.menu-item {
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.menu-item:hover {
+    background: #f5f5f5;
+}
+
+.menu-item+.menu-item {
+    border-top: 1px solid #eee;
+}
+
+.wechat {
+    position: relative;
+}
+
+.wechat::before {
+    content: '';
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    top: 50%;
+    right: 48px;
+    transform: translateY(-50%);
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.15);
+    border-radius: 4px;
+    background: white url('https://cdn.jsdelivr.net/gh/shalom-lab/wechat/images/images.png') center/calc(100% - 16px) no-repeat;
+    padding: 8px;
+}
+
+.wechat::after {
+    content: '欢迎关注微信公众号';
+    position: absolute;
+    width: 200px;
+    height: 20px;
+    background: #fff;
+    ;
+    margin-bottom: 20px;
+    text-align: center;
+    top: calc(50% + 100px);
+    /* 二维码高度的一半 */
+    right: 48px;
+    transform: translateY(-50%);
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.3s ease;
+    color: #333;
+    font-size: 14px;
+}
+
+.wechat:hover::before,
+.wechat:hover::after {
+    opacity: 1;
+    visibility: visible;
+}
+
+svg:hover {
+    color: #3b82f6;
+}
