@@ -234,5 +234,16 @@
     ],
     "stars": 3,
     "timestamp": "2025-11-28T08:27:18.034Z"
+  },
+  {
+    "title": "Form Matrix",
+    "link": "https://shalom-lab.github.io/form-matrix/",
+    "description": "可视化地创建表单规范",
+    "category": "实用工具",
+    "keywords": [
+      "表单"
+    ],
+    "stars": 4,
+    "timestamp": "2025-11-28T11:28:33.983Z"
   }
 ]
