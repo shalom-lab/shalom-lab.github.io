@@ -222,5 +222,17 @@
     ],
     "stars": 3,
     "timestamp": "2025-11-28T08:22:27.308Z"
+  },
+  {
+    "title": "CSV Viewer",
+    "link": "https://shalom-lab.github.io/impact-factor/",
+    "description": "查看搜索csv文件",
+    "category": "实用工具",
+    "keywords": [
+      "csv",
+      "数据展示"
+    ],
+    "stars": 3,
+    "timestamp": "2025-11-28T08:27:18.034Z"
   }
 ]
