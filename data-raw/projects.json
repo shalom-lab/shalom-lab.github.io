@@ -267,7 +267,11 @@
     "link": "https://shalom-lab.github.io/markmuse/",
     "description": "Markdown写公众号推文",
     "category": "网站",
-    "keywords": [],
+    "keywords": [
+      "markdown",
+      "写作",
+      "推文"
+    ],
     "stars": 5,
     "timestamp": "2026-01-02T08:36:42.321Z"
   }
