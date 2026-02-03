@@ -300,5 +300,16 @@
     ],
     "stars": 5,
     "timestamp": "2026-01-14T02:16:31.185Z"
+  },
+  {
+    "title": "vibe-lab",
+    "link": "https://shalom-lab.github.io/vibe-lab/index.html",
+    "description": "探索现代 Web 技术的实验集合\n从 API 实验到 AI 应用，一站式体验",
+    "category": "网站",
+    "keywords": [
+      "web"
+    ],
+    "stars": 3,
+    "timestamp": "2026-02-03T14:11:50.624Z"
   }
 ]
