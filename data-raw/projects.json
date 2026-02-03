@@ -325,5 +325,19 @@
     ],
     "stars": 5,
     "timestamp": "2026-02-03T14:13:35.847Z"
+  },
+  {
+    "title": "AI 语言私教",
+    "link": "https://shalom-lab.github.io/AI-tutor/",
+    "description": "Learn any language with help with AI",
+    "category": "网站",
+    "keywords": [
+      "英语",
+      "Gemini",
+      "情景英语",
+      "AI"
+    ],
+    "stars": 5,
+    "timestamp": "2026-02-03T14:16:06.225Z"
   }
 ]
