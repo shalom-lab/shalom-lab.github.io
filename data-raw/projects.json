@@ -311,5 +311,19 @@
     ],
     "stars": 3,
     "timestamp": "2026-02-03T14:11:50.624Z"
+  },
+  {
+    "title": "GitDB",
+    "link": "https://shalom-lab.github.io/git-db/",
+    "description": "本地优先，云端同步 —— 您的 Serverless 数据库管家",
+    "category": "网站",
+    "keywords": [
+      "数据库",
+      "WASM",
+      "SQLite",
+      "github"
+    ],
+    "stars": 5,
+    "timestamp": "2026-02-03T14:13:35.847Z"
   }
 ]
