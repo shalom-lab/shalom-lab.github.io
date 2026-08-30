@@ -340,5 +340,13 @@
     ],
     "stars": 5,
     "timestamp": "2026-02-03T14:16:06.225Z"
+  },
+  {
+    "title": "data-push",
+    "link": "https://shalom-lab.github.io/data-push/index.html",
+    "description": "推送数据到github仓库",
+    "category": "实用工具",
+    "tags": [],
+    "timestamp": "2026-08-30T08:33:26.155Z"
   }
 ]
