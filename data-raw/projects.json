@@ -346,7 +346,11 @@
     "link": "https://shalom-lab.github.io/data-push/index.html",
     "description": "推送数据到github仓库",
     "category": "实用工具",
-    "tags": [],
+    "keywords": [
+      "github",
+      "数据推送"
+    ],
+    "stars": 3,
     "timestamp": "2026-08-30T08:33:26.155Z"
   }
 ]
