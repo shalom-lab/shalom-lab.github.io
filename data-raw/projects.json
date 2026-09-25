@@ -10,7 +10,7 @@
     ],
     "stars": 5,
     "timestamp": "2025-03-18T11:08:24.963Z",
-    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
+    "image": "./images/data-viewer.jpg"
   },
   {
     "title": "SIR模型",
@@ -24,7 +24,7 @@
     ],
     "stars": 5,
     "timestamp": "2025-03-18T11:10:24.949Z",
-    "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
+    "image": "./images/sir-model.jpg"
   },
   {
     "title": "VSlide",
@@ -37,7 +37,7 @@
     ],
     "stars": 5,
     "timestamp": "2025-03-18T11:11:47.799Z",
-    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
+    "image": "./images/vslide.jpg"
   },
   {
     "title": "RSS-流行病学",
@@ -50,7 +50,7 @@
     ],
     "stars": 5,
     "timestamp": "2025-03-18T11:15:40.514Z",
-    "image": "https://images.unsplash.com/photo-1584036561566-baf8f5f1b144?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
+    "image": "./images/rss-epi.jpg"
   },
   {
     "title": "Awesome Prompt",
@@ -63,7 +63,7 @@
     ],
     "stars": 3,
     "timestamp": "2025-03-18T11:16:35.935Z",
-    "image": "https://images.unsplash.com/photo-1598413667303-43014eacbeb2?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    "image": "./images/awesome-prompt.jpg"
   },
   {
     "title": "easy-prompt",
@@ -76,7 +76,7 @@
     ],
     "stars": 5,
     "timestamp": "2025-03-18T11:18:02.571Z",
-    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
+    "image": "./images/easy-prompt.jpg"
   },
   {
     "title": "svg-to-icon",
@@ -89,7 +89,7 @@
     ],
     "stars": 5,
     "timestamp": "2025-03-18T11:19:35.278Z",
-    "image": "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
+    "image": "./images/svg-to-icon.jpg"
   },
   {
     "title": "Bookmark-Plus",
@@ -102,7 +102,7 @@
     ],
     "stars": 5,
     "timestamp": "2025-03-18T11:20:46.560Z",
-    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
+    "image": "./images/bookmark-plus.jpg"
   },
   {
     "title": "Push-Data",
@@ -116,7 +116,7 @@
     ],
     "stars": 5,
     "timestamp": "2025-03-18T11:21:45.787Z",
-    "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
+    "image": "./images/push-data.jpg"
   },
   {
     "title": "R语言入门指南",
@@ -128,7 +128,7 @@
     ],
     "stars": 5,
     "timestamp": "2025-03-18T11:22:26.344Z",
-    "image": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
+    "image": "./images/r-book.jpg"
   },
   {
     "title": "emoji-free",
@@ -141,7 +141,7 @@
     ],
     "stars": 3,
     "timestamp": "2025-03-18T11:24:33.104Z",
-    "image": "https://images.unsplash.com/photo-1600493033157-eed3fbe95d96?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
+    "image": "./images/emoji-free.jpg"
   },
   {
     "title": "医学生R语言入门指南",
@@ -154,7 +154,7 @@
     ],
     "stars": 3,
     "timestamp": "2025-03-18T11:26:33.105Z",
-    "image": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
+    "image": "./images/r4medical.jpg"
   },
   {
     "title": "shiny-world-pop",
@@ -167,7 +167,7 @@
     ],
     "stars": 5,
     "timestamp": "2025-03-18T11:27:38.523Z",
-    "image": "https://images.unsplash.com/photo-1569025690938-a00729c9e1f9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
+    "image": "./images/shiny-world-pop.jpg"
   },
   {
     "title": "上海新冠疫情可视化",
@@ -181,7 +181,7 @@
       "R语言"
     ],
     "stars": 5,
-    "image": "https://images.unsplash.com/photo-1584483766114-2cea6facdf57?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "image": "./images/covid-sh.jpg",
     "timestamp": "2025-03-20T11:20:30.037Z"
   },
   {
@@ -194,7 +194,7 @@
       "CICD"
     ],
     "stars": 5,
-    "image": "https://images.unsplash.com/photo-1506485338023-6ce5f36692df?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8d2Vla2x5fGVufDB8fDB8fHww",
+    "image": "./images/weekly-tools.jpg",
     "timestamp": "2025-03-21T08:15:09.731Z"
   },
   {
@@ -209,7 +209,7 @@
       "SCI"
     ],
     "stars": 5,
-    "image": "https://plus.unsplash.com/premium_photo-1722686618730-89b3289244bc?q=80&w=1144&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "image": "./images/pubmed-watcher.jpg",
     "timestamp": "2025-05-21T08:10:00.617Z"
   },
   {
@@ -222,7 +222,7 @@
       "工具"
     ],
     "stars": 3,
-    "image": "https://plus.unsplash.com/premium_photo-1720287601920-ee8c503af775?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "image": "./images/json-editor.jpg",
     "timestamp": "2025-11-28T08:22:27.308Z"
   },
   {
@@ -235,7 +235,7 @@
       "数据展示"
     ],
     "stars": 3,
-    "image": "https://plus.unsplash.com/premium_photo-1671461774955-7aab3ab41b90?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "image": "./images/csv-viewer.jpg",
     "timestamp": "2025-11-28T08:27:18.034Z"
   },
   {
@@ -247,7 +247,7 @@
       "表单"
     ],
     "stars": 4,
-    "image": "https://plus.unsplash.com/premium_photo-1681487870238-4a2dfddc6bcb?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "image": "./images/form-matrix.jpg",
     "timestamp": "2025-11-28T11:28:33.983Z"
   },
   {
@@ -261,7 +261,7 @@
     ],
     "stars": 4,
     "timestamp": "2025-12-07T12:28:06.217Z",
-    "image": "https://raw.githubusercontent.com/shalom-lab/shalom-lab.github.io/main/images/-----1774004174561.png"
+    "image": "./images/remove-background.jpg"
   },
   {
     "title": "MarkMuse",
@@ -274,7 +274,7 @@
       "推文"
     ],
     "stars": 5,
-    "image": "https://plus.unsplash.com/premium_photo-1723291280862-e315f4ba74a2?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "image": "./images/markmuse.jpg",
     "timestamp": "2026-01-02T08:36:42.321Z"
   },
   {
@@ -287,7 +287,8 @@
       "工具"
     ],
     "stars": 5,
-    "timestamp": "2026-01-07T04:57:38.766Z"
+    "timestamp": "2026-01-07T04:57:38.766Z",
+    "image": "./images/word-ocean.jpg"
   },
   {
     "title": "灵光一瞬(Spark)",
@@ -300,7 +301,8 @@
       "代码片段"
     ],
     "stars": 5,
-    "timestamp": "2026-01-14T02:16:31.185Z"
+    "timestamp": "2026-01-14T02:16:31.185Z",
+    "image": "./images/spark.jpg"
   },
   {
     "title": "vibe-lab",
@@ -311,7 +313,8 @@
       "web"
     ],
     "stars": 3,
-    "timestamp": "2026-02-03T14:11:50.624Z"
+    "timestamp": "2026-02-03T14:11:50.624Z",
+    "image": "./images/vibe-lab.jpg"
   },
   {
     "title": "GitDB",
@@ -325,7 +328,8 @@
       "github"
     ],
     "stars": 5,
-    "timestamp": "2026-02-03T14:13:35.847Z"
+    "timestamp": "2026-02-03T14:13:35.847Z",
+    "image": "./images/git-db.jpg"
   },
   {
     "title": "AI 语言私教",
@@ -339,7 +343,8 @@
       "AI"
     ],
     "stars": 5,
-    "timestamp": "2026-02-03T14:16:06.225Z"
+    "timestamp": "2026-02-03T14:16:06.225Z",
+    "image": "./images/ai-tutor.jpg"
   },
   {
     "title": "data-push",
@@ -351,6 +356,7 @@
       "数据推送"
     ],
     "stars": 3,
-    "timestamp": "2026-08-30T08:33:26.155Z"
+    "timestamp": "2026-08-30T08:33:26.155Z",
+    "image": "./images/data-push.jpg"
   }
 ]
